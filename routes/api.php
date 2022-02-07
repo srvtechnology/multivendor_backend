@@ -52,4 +52,3 @@ Route::middleware('auth:api')->group(function () {
 });
 
 //Route::get('/getuser', [RegisterControl
-//lll
