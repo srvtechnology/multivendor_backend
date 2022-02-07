@@ -51,4 +51,5 @@ Route::middleware('auth:api')->group(function () {
 
 });
 
-//Route::get('/getuser', [RegisterController::class, 'getuser']);
+//Route::get('/getuser', [RegisterControl
+//lll
